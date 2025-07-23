@@ -9,7 +9,7 @@ Passionate about full-stack development, open-source, and building real-world so
 
 - 🎓 **B.Tech in Computer Science & Engineering** (AI & ML) from Kalasalingam University
 - 🚀 Full Stack Developer | Cloud Enthusiast | Problem Solver
-- 🏆 2nd place winner in IBM IoT Day Competition
+- 🏆 2nd place winner in IBM ICE Day Competition
 - 📚 100+ DSA problems solved on LeetCode & GeeksforGeeks
 - 🏅 Oracle Cloud Infrastructure 2023 Certified Architect Associate
 
